@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @techps
 - 👀 I’m interested in how can i save the world in future if you cannot change the world cannot change.
 - 🌱 I’m currently learning python and more other skills
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  all reach me
 
 <!---
